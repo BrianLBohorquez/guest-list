@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 1rem;
+  font-family: Georgia, serif;
+  background-color: #eee;
+}
+
+main {
+  max-width: 40rem;
+  margin: 2rem auto;
+  padding: 1rem;
+  background-color: white;
+  border: 0.15rem solid black;
+  border-radius: 0.5rem;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 0;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
